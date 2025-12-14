@@ -26,4 +26,4 @@ Each file contains both EN→LT and LT→EN examples, formatted for clarity and 
 
 ## 📎 Related Links
 
-- Fiverr profile: https://
+- Fiverr profile: https://fiverr.com/lookathisnow
